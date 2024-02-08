@@ -1,0 +1,16 @@
+nav {
+    display:flex; 
+    justify-content: space-between;
+    align-items: center;
+    background-color: #878787;
+    color:aliceblue;
+}
+a {color:aliceblue;
+    text-decoration: none;
+    margin: 10px;
+}
+#menu {font-size: x-large;
+}
+#menu :hover {color: #192841;}
+.in {border-bottom: 1px solid;}
+body {background-color: #192841;}
