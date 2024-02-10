@@ -28,7 +28,7 @@ a {color:aliceblue;
 /*index html*/
 .index-p {font-size: 35px; padding-top: 10px; padding-bottom: 10px;}
 h3 {color: rgb(198, 206, 214); font-size: 35px; padding-top: 10px; padding-bottom: 20px;}
-footer {color: rgb(198, 206, 214); font-size: 35px; bold;}
+footer {color: rgb(198, 206, 214); font-size: 35px;}
 /*about html*/
 main {padding-top:80px}
 .about-pic {width:200px; float: right;}
