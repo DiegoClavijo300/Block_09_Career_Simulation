@@ -16,7 +16,7 @@ nav {
     right: 0;
     top: 0;    
 }
-#menu {font-size: x-large;
+#menu {font-size: 2rem;
 }
 #menu :hover {color: #192841;}
 #initials {font-size: 20px; padding-left: 7px;}
@@ -26,11 +26,11 @@ a {color:aliceblue;
     margin: 10px;
 }
 /*index html*/
-.index-p {font-size: 35px; padding-top: 10px; padding-bottom: 10px;}
-h3 {color: rgb(198, 206, 214); font-size: 35px; padding-top: 10px; padding-bottom: 20px;}
-footer {color: rgb(198, 206, 214); font-size: 35px;}
+.index-p {font-size: 35px; padding-top: 1vh; padding-bottom: 10px;}
+h3 {color: rgb(198, 206, 214); font-size: 35px; padding-top: 1vh; padding-bottom: 20px;}
+footer {color: rgb(198, 206, 214); font-size: 35px; height: 200vh;}
 /*about html*/
-main {padding-top:80px}
+main {padding-top:5vh}
 .about-pic {width:200px; float: right;}
 .about-head {font-size: 55px; border-bottom: rgb(198, 206, 214) solid; text-align: center;}
 /*portfolio*/
