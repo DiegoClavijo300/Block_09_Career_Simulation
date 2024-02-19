@@ -1,6 +1,6 @@
 /*entire html styling*/ 
 body {background-color: #192841;}
-.initials-pic {float: right; width: 500px;}
+.initials-pic {float: right; width: 500px; padding-top: 35px;}
 h2 {color:rgb(198, 206, 214); font-size: 45px; padding-bottom: 5px;}
 p {color:rgb(198, 206, 214); font-size: 25px;}
 h1 {color:rgb(198, 206, 214);}
@@ -48,4 +48,22 @@ form {
 }
 #submit {
     font-size: 20px;
+}
+/* foriphone XR */
+@media (max-width:414px) {
+    #menu {
+        font-size: 20px;
+    }
+    .initials-pic {
+        width: 200px;
+    }
+    .index-p {
+        font-size: 35px;
+    }
+    h3 {
+        font-size: 30px;
+    }
+    footer {
+        font-size: 30px;
+    }
 }
